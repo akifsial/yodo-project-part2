@@ -1,7 +1,7 @@
-html,body{
+/* html,body{
     height: 100%;
     font-family: 'poppins', sans-serif;
-}
+} */
 
 #bdSidebar{
     overflow-y: auto;
@@ -48,4 +48,8 @@ html,body{
     width: fit-content;
     
     font-size: 13px;
+}
+.main-body-content{
+    margin-left: 25%;
+    width: 75%;
 }
